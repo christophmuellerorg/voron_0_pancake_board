@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9-0-10_14)*%
-%TF.CreationDate,2021-09-12T17:19:37+02:00*%
+%TF.CreationDate,2021-09-13T08:54:23+02:00*%
 %TF.ProjectId,v0_miniAB_pancake_board,76305f6d-696e-4694-9142-5f70616e6361,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.9-0-10_14)) date 2021-09-12 17:19:37*
+G04 Created by KiCad (PCBNEW (5.1.9-0-10_14)) date 2021-09-13 08:54:23*
 %MOMM*%
 %LPD*%
 G01*
