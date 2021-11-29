@@ -11,8 +11,8 @@ are terminated onto a 2x7 Microfit.
 # BOM
 
 For the PCB:
-- 1x Molex 43045-1400 (Microfit Jr. 2x7) 
-- 1x Molex 43045-0200 (Microfit Jr 2x1)
+- 1x Molex 43045-1400 (Microfit 2x7) 
+- 1x Molex 43045-0200 (Microfit 2x1)
 - 4x JST PH 2 Pin, B2B-PH-K-S(LF)(SN)
 - 3x JST PH 3 Pin, B3B-PH-K-S(LF)(SN)
 - 1x JST PH 4 Pin, B4B-PH-K-S(LF)(SN)
